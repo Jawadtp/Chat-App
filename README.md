@@ -7,7 +7,7 @@ Screens
 
 Sign In Screen
 Let's registered users sign in by entering their login credentials. Users can also reset their password should they require so.
-<img src="https://imgur.com/79YyrKW.png" height="100" width="50">
+<img src="https://imgur.com/79YyrKW.png" height="1000" width="500">
 
 Sign Up Screen
 Users can sign up to start using WeConnect at once by using email IDs
