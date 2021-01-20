@@ -48,4 +48,4 @@ Screen where actual communication in the form of exchange of text messages takes
 </li>
 </ol>
 
-
+<a href="https://github.com/Jawadtp/Chat-App/raw/master/release/weconnect.apk">Download APK</a>
